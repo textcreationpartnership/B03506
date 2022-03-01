@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great and wonderful prophecies, of Mr. Patridge [sic], Mr. Coly, Mr. Tanner, and Mr. Andrews. Predicting what may befall this climate of England and other kingdoms, for this year 1689. With the account of the memorable eclipses, and their signification, with other remarkable matters worthy of note.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03506</idno>
+            <idno type="STC">Wing G1660DA</idno>
+            <idno type="STC">ESTC R188149</idno>
+            <idno type="EEBO-CITATION">53981525</idno>
+            <idno type="OCLC">ocm 53981525</idno>
+            <idno type="VID">180237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180237)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2821:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great and wonderful prophecies, of Mr. Patridge [sic], Mr. Coly, Mr. Tanner, and Mr. Andrews. Predicting what may befall this climate of England and other kingdoms, for this year 1689. With the account of the memorable eclipses, and their signification, with other remarkable matters worthy of note.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+                  <author>Coley, Henry, 1633-1695?</author>
+                  <author>Tanner, John, ca. 1636-1715.</author>
+                  <author>Andrews, William, ca. 1635-1713.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: woodcuts of various portents.</note>
+                  <note>"Mr. Patridge ... Mr. Coly" and "Mr. Tanner ... Mr. Andrews" within brackets on t.p.</note>
+                  <note>Imperfect: pages cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180237:1"/>
+            <pb facs="tcp:180237:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Great and Wonderful PROPHECIES, OF
+<list>
+                  <item>Mr. <hi>Patridge,</hi>
+                  </item>
+                  <item>Mr. <hi>Coly,</hi>
+                  </item>
+                  <item>Mr. <hi>Tanner,</hi> and</item>
+                  <item>Mr. <hi>Andrews.</hi>
+                  </item>
+               </list>
+Predicting what may befall this CLIMATE of ENGLAND And other Kingdoms, for this year 1689 With the Account of the memorable <hi>Eclipſes,</hi> and their Signification, with other remarkable matters worthy of Note.</p>
+            <p>
+               <figure>
+                  <figDesc>tripartite arrangement of illustrations depicting a comet, a celestial battle, and an earthquake, respectively, surmounted by three suns</figDesc>
+                  <p>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee May Turne his Wrath Away ☞ greate Wonders and Str<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_prognostications">
+            <pb facs="tcp:180237:2"/>
+            <pb n="1" facs="tcp:180237:2"/>
+            <head>The Great and Wonderful PROPHECIES, OF Mr. <hi>Patridge,</hi> Mr. <hi>Coly,</hi> Mr. <hi>Tanner,</hi> &amp;c.</head>
+            <p>TIs no wonder, if ſo many ſtrange <hi>Events</hi> and <hi>Accidents</hi> are hidden from the fore-ſight of Man-kind, ſince ſo few addict themſelves to the underſtanding the <hi>Caeleſtial Intelligences,</hi> in their ſundry <hi>Aſpects, Motions, Conjun<g ref="char:EOLhyphen"/>ctions</hi> and <hi>Configurations,</hi> ſeeing by them as by the <hi>Monitors</hi> of <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> are pointed out the Riſe and Decay of <hi>Empires, Kingdoms,</hi> and <hi>States, Wars, Plague, Famine, Fire, Loſſes,</hi> and the like, which the more judicious frequently fore-ſee; and which, by a true and timely <hi>Repentance</hi> may be averted, and the Almighty Hand ſtay'd, ever then when it is lifted up to give the <hi>Fatal Stroke,</hi> as appears by the <hi>Ninevites Humiliation, David's</hi> oppoſing himſelf to the deſtroying <hi>Angel, Hezekia's</hi> Prayer, that delivered him from appointed Death, and many other <hi>Examples</hi> found in <hi>Holy Writ,</hi> and other Warrantable <hi>Records, &amp;c.</hi> But not to be tedious in the Begin<g ref="char:EOLhyphen"/>ning, I now Proceed to give the <hi>Reader</hi> the Sum of the <hi>Predicti<g ref="char:EOLhyphen"/>ons, Prophecies,</hi> or <hi>Prognoſtications,</hi> for the Year, 1689. As I find them ſet down by theſe Four moſt Learned and Judicious <hi>Aſtrolo<g ref="char:EOLhyphen"/>gers;</hi> whoſe heitherto approved Truths fore-told, have ſtruck the World with no ſmall Wonder and Amazement.</p>
+            <p>
+               <pb n="2" facs="tcp:180237:3"/>
+This Year, ſays Mr. <hi>Patridge,</hi>
+               <lb/>
+BEgins with no Extraordinary Action, but Great <hi>Councils</hi> and Conſultations, which may be hoped to very Good Purpoſe; for at the <hi>Poſt-ventional New Moon;</hi> Two Days after its Ingreſs, the <hi>Moon</hi> applyes to the <hi>Sextile</hi> of <hi>Saturn,</hi> to which may be added the Conjunction of the Fortunes &amp; the Sextile of the <hi>Sun</hi> &amp; <hi>Saturn,</hi> which in the <hi>Starry Dialects,</hi> are <hi>Arguments</hi> of a Quiet and Peace<g ref="char:EOLhyphen"/>able Time; and much better (perhaps) than expected, for there are very Emergencies, Good or Bad, that happen in the World, but have ſome Manifeſtation from the Configuration of the <hi>Hea<g ref="char:EOLhyphen"/>vens;</hi> and they from the Beginning of the Year, till towards the <hi>Spring,</hi> ſeem to Denote nothing leſs than a Stabilitie of Worldly Affairs, were not the two <hi>Infortanes Stars,</hi> ſo called, poſſited in a <hi>Head-ſtrong, Malicious,</hi> and <hi>Treacherous Sign;</hi> however the Bene<g ref="char:EOLhyphen"/>volent Poſitions of the Favourable <hi>Planets,</hi> Mittigate the Evil pretended, from whence we may clonclude, and hope for better Things than many ill Spirited Perſons deſire; Though to other Countrys, under their Influence to <hi>Mars</hi> and <hi>Saturn</hi> in <hi>Scorpio,</hi> threatned <hi>Rebellious Mutinies, War, Falſhood, Perjury, <g ref="char:V">Ʋ</g>iolation,</hi> or <hi>Breach of Leagues,</hi> between Neighbouring <hi>Princes, Diſſenſions, Controverſies, Murthers,</hi> with <hi>Backbitings</hi> amongſt <hi>Relations;</hi> ſome ſiding with one Party or Country, and ſome with another; having thus diſcourſed of the firſt part of the Year; he proceeds to the ſecond.</p>
+            <p>Saturn, ſays Mr. <hi>Coly.</hi>
+               <lb/>
+BEing in <hi>Scorpio,</hi> and <hi>Jupiter</hi> in <hi>Aquarius;</hi> it is an ill Wind that blows no body profit: Things ſeem to be in a moderate good Poſture; many cry out for <hi>Juſtice</hi> and plead much <hi>Loyalty,</hi> ſome ſticking of an <hi>Old Nature,</hi> falls in the <hi>Quadrate</hi> of <hi>Saturn,</hi> &amp; <hi>Mars</hi> threatens a Foot of ſubtile aged perſons, and uſually produces ma<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:180237:3"/>ſtrange Effects; and this following the <hi>Suns</hi> Ingreſs, ſome M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>levolent Malady is to be feared, and the <hi>Aſpects</hi> being for the m<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> part <hi>Partamicable,</hi> ſeem thereby to promiſe <hi>
+                  <g ref="char:V">Ʋ</g>nity, Concord,</hi> G<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Agreement, &amp;c.</hi> And the Poſition of <hi>Jove</hi> in <hi>Aquarius,</hi> Denotes A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vancement of <hi>Worthy Men</hi> of the <hi>Long Robe,</hi> ſo that we have cau<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to hope well, notwithſtanding the Endeavours of ſome Wick<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Perſons</hi> to hinder our <hi>Tranquilitie;</hi> and towards the <hi>Cloſe</hi> of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Spring,</hi> hope to hear <hi>Good News,</hi> even ſuch as will prove <hi>grateſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to all honeſt Minds. From the <hi>Spring,</hi> proceeding to <hi>Summer,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſays various <hi>Actions</hi> and <hi>Effects</hi> will be produced throughout <hi>E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rope,</hi> and we may wait to ſee the Operation of <hi>Great Things,</hi> whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are promiſed in <hi>Forreign Parts,</hi> and ſuch, perhaps, that many yea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before have not produced; for <hi>Jove</hi> falling Retrogade into <hi>Piſce<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Trine,</hi> and great <hi>Reception</hi> with <hi>
+                  <g ref="char:V">Ʋ</g>enus;</hi> with many other favou<g ref="char:EOLunhyphen"/>rable or friendly <hi>Configurations,</hi> from whence we may Naturall expect as propitious Influences; for in any ingreſs of the <hi>Sun,</hi> the Fortunes are found in their own <hi>Dignities</hi> or <hi>Reception,</hi> the do they influence Vertue and ſuch Actions as they Naturally ſigni<g ref="char:EOLunhyphen"/>fie, ſhall be exceedingly Augmented: And altho <hi>Eminent Change</hi> happen yet to the Benefit of <hi>Mankind, &amp;c.</hi> and Juſtice <hi>Impartiall</hi> Executed upon the <hi>Great</hi> and <hi>Powerful,</hi> as well as upon the <hi>Meane<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſort,</hi> all <hi>Things</hi> inclining to <hi>peace</hi> and <hi>Tranquilitie;</hi> and ſo going on to <hi>Antum,</hi> or the laſt <hi>Diviſion</hi> of the <hi>Year,</hi>
+            </p>
+            <p>This <hi>Month</hi> ſays <hi>he,</hi> meaning <hi>September,</hi> we have a moſt hateful <hi>Op<g ref="char:EOLhyphen"/>poſition</hi> of <hi>Saturn</hi> &amp; <hi>Mars;</hi> attended alſo with the <hi>Oppoſition</hi> of the For<g ref="char:EOLhyphen"/>tunes, <hi>Jupiter</hi> &amp; <hi>
+                  <g ref="char:V">Ʋ</g>enus,</hi> the <hi>Square</hi> of <hi>Saturn</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>enus,</hi> the <hi>Square</hi> of <hi>Mars</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> from fir'd ſigns, which are notable <hi>Configurations,</hi> &amp; uſually produce wonderful <hi>Effects;</hi> for <hi>Mankind</hi> is threatned with ſtrange <hi>Diſtempers</hi> of Body, as <hi>Fevours,</hi> occaſioning <hi>Megrim, Mad<g ref="char:EOLhyphen"/>neſs, Phranzies, Appoplexies, Lethargies;</hi> with many other <hi>Anoni<g ref="char:EOLhyphen"/>mous Diſeaſes</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nnatural,</hi> hard to be cured, and often terminate in <hi>ſudden Death,</hi> and now expect to hear of many <hi>Roberies,</hi> and in<g ref="char:EOLhyphen"/>humane <hi>Actions</hi> amongſt <hi>Mankind;</hi> as alſo Treacherous <hi>Enterpriſes,</hi> &amp; very ſudden and amazing <hi>Accidents</hi> in many parts of <hi>Europe,</hi> for
+<q>
+                  <pb n="4" facs="tcp:180237:4"/>
+                  <l>Nature ſtill Acts to bring her Works about:</l>
+                  <l>
+                     <hi>Marſs</hi> gives the Pox, but <hi>Saturn</hi> gives the Gout;</l>
+                  <l>Seas plagu'd with Pirates, Thieves infeſt the Land,</l>
+                  <l>Eaſe proves diſeaſes to each unruly Hand.</l>
+               </q>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd thus much for the <hi>predictions</hi> of this <hi>learned Man,</hi> from whence <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e proceed to give you an account of the <hi>Predictions</hi> and <hi>Aſtro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gical Judgments</hi> of others in <hi>General,</hi> for the year 1689. as taken <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om their own hands, <hi>&amp;c.</hi>
+            </p>
+            <p>In the Beginning of the Year, ſays Mr. <hi>Tanner,</hi>
+               <lb/>
+               <hi>SAturn</hi> being in the <hi>Aſcending part</hi> of <hi>Heaven,</hi> and <hi>Jupiter</hi> in the <hi>Angle</hi> of the <hi>Earth,</hi> ſignifie <hi>Inſurrections,</hi> oppoſing <hi>Princes,</hi> un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermining <hi>Government,</hi> as alſo <hi>Mutations</hi> and <hi>Changes</hi> in the Af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>irs of <hi>Princes</hi> and <hi>States Alterations</hi> in Laws, <hi>&amp;c.</hi> Threatning e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecially the <hi>Ottoman Empire,</hi> and not looking very favourably up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Italy,</hi> and ſome of the <hi>German Princes,</hi> who will be detrimen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in their Affairs, and others find ſome difficulty and heavineſs in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he management of their <hi>Eſtates</hi> and <hi>Government,</hi> and the <hi>quartile <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpect</hi> of <hi>Saturn</hi> and <hi>Mars,</hi> Denote many <hi>bold, daring</hi> and unuſual <hi>Roberies;</hi> and if <hi>Saturn</hi> ſhall be in <hi>Scorpio,</hi> having <hi>North Latitude,</hi> it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hreatens abundance of <hi>Rain,</hi> over-flowing of <hi>Rivers,</hi> and <hi>Sea-banks,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orruption of Waters; and if <hi>Oriential,</hi> it Denotes <hi>Wars</hi> and <hi>Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entions,</hi> between <hi>Noble men</hi> and their <hi>Kings</hi> and <hi>Governours, &amp;c.</hi> Eſpecially thoſe Countrys under <hi>Aquarius, Scorpio</hi> and <hi>Leo:</hi> Yet as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o us, we find that <hi>Saturn</hi> and <hi>Jupiter,</hi> are aptly towards their <hi>Trine Aſpects,</hi> which carry a ſignification of <hi>Love</hi> and <hi>Friendſhip</hi> along with <hi>them,</hi> and in <hi>May</hi> they are partially ſo figurated, and ſo conti<g ref="char:EOLhyphen"/>nue in the following <hi>July,</hi> intimating <hi>Emcaſſies, Treaties</hi> for <hi>peace,</hi> &amp; hopeful <hi>propoſals,</hi> which will be promoted by ſundry <hi>well-deſigning people,</hi> if not hindered by ſome Malevolent <hi>Aſpect,</hi> ſtirring up ſuch as may give it a diſturbance; however, in the following <hi>Quarter,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Aſpects</hi> are more favourable, and give hopes of a great ſettle<g ref="char:EOLhyphen"/>men of Affairs, which God of his Mercy Grant, eſpecially to theſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdoms.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:180237:4"/>
+               <head>To theſe we may add what He ſays in his prediction for the Year, <hi>1689.</hi>
+               </head>
+               <p>THe <hi>Configuration</hi> of <hi>Heaven,</hi> (ſays he) attending the <hi>Solar, <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>greſs,</hi> are of a pretty mild and calm <hi>Nature,</hi> and the heaven Bodies are moderately diſpoſed, as to their Mutual <hi>Aſpects,</hi> yet Forreign Countrys they prove not ſo <hi>favourable,</hi> but threatens <hi>th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> with <hi>mortal Action,</hi> eſpecially the <hi>Turks, Tartars, Polonians, &amp;</hi> yet ſoon after, <hi>Calmneſs</hi> may probably inſue, and we may reaſon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bly expect to hear of a greater <hi>Calm,</hi> tho' ſome other <hi>Aſpect</hi> threa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>en to keep the World in <hi>Action;</hi> nor are the <hi>Eclipſe</hi> of this to b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> held of little account in their <hi>Effects</hi> and <hi>Significations,</hi> according <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Rules of <hi>Aſtrology,</hi> and ſince we have ſpoke ſufficiently of oth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>prognoſtical Effects,</hi> produced by the <hi>Plannets</hi> and <hi>Heavenly Bodys</hi> what is moſt Noted of them, is material to be laid down.</p>
+            </div>
+            <div type="part">
+               <head>Of the Eclipſes, and what is obſervable from them this year, <hi>1689.</hi> according to Mr. <hi>Andrews.</hi>
+               </head>
+               <p>THe Frſt <hi>Eclipſe</hi> will be upon the 25th. of <hi>March,</hi> being of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Moon,</hi> between the hours of 6 &amp; 7 at Night, being a <hi>total</hi> &amp; <hi>centerial Eclipſe,</hi> and is to be ſeen in <hi>England,</hi> if the <hi>Clouds</hi> or <hi>Miſt</hi> intercept it not. Its beginning will be at 39 Minutes paſt 4 a Clock the beginning of total <hi>Darkneſs</hi> will be at 45 Minutes paſt Five, th<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the middle or greateſt <hi>Obſervation</hi> about 44 Minutes paſt Six. The be<g ref="char:EOLunhyphen"/>ginning of the <hi>Moons</hi> Recovering Light, about 43 Minutes paſt 7; &amp; the end about 49 Minutes towards 8, and at the time of theſe <hi>E lip<g ref="char:EOLunhyphen"/>ſes, Saturn</hi> is in the Fourth <hi>Degree</hi> of <hi>Scorpio,</hi> Retrogade in the aſcen<g ref="char:EOLhyphen"/>dant: <hi>Jupiter</hi> and <hi>Mars</hi> are in the Fourth houſe, <hi>Jupiter</hi> being in the 23d <hi>Degree</hi> of <hi>Aquarius,</hi> and <hi>Mars</hi> in the 6th. <hi>Degree,</hi> thereof the <hi>Sun</hi> and <hi>Caput Draconis,</hi> are in the 7th. houſe in the 15th. <hi>Degree</hi> of <hi>A<g ref="char:EOLhyphen"/>ries,</hi> and <hi>Mercury</hi> is in the 6th. houſe, and in the 10th. <hi>Degree</hi> of the ſame ſign, <hi>Retrograde;</hi> but to come near in this matter, it is the <hi>O<g ref="char:EOLhyphen"/>pinion</hi> of the <hi>Learned,</hi> that an <hi>Eclipſe</hi> ſo poſited, is of no Benevolent Nature, but Denotes, <hi>Sorrow, Labour, Impriſonment; ſecret Contri<g ref="char:EOLhyphen"/>vences, clandeſtive Actions,</hi> and <hi>Negotiations,</hi> &amp;c. Wherefore it ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be reaſonably conjectured, that thoſe Countrys ſubject to its
+<pb n="6" facs="tcp:180237:5"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ects, may happen to fall under ſome unexpected <hi>Diſorder;</hi> how<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er, we are of <hi>Opinion,</hi> that theſe being only ſecondary Cauſes, <hi>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>mpting</hi> and not <hi>compelling,</hi> may by the <hi>over-ruling power</hi> of <hi>God,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prevented, for in his hands are the <hi>Breath</hi> of <hi>Life</hi> and <hi>Actions</hi> of <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ankind,</hi> on whom we ought to Rely for our <hi>ſafety</hi> &amp; <hi>preſervation.</hi> The ſecond conſiderable <hi>Eclipſe</hi> is of the <hi>Moon,</hi> on the 19th. day <hi>September,</hi> about half an hour after 2 of the Clock in the <hi>Morning,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich will be a <hi>total</hi> and <hi>centural Eclipſe,</hi> viſible with us, if the Air <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>ſerene</hi> and not <hi>over-caſt</hi> with <hi>Clouds:</hi> The beginning will be a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out 15 Minutes paſt Midnight; the beginning of <hi>total Darkneſs,</hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>out 56 Minutes paſt one of the Clock; the middle or greateſt ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rvation, about 48 Minutes paſt two of the Clock; the beginning, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> recovering Light, about 14 Minutes paſt three of the Clock, and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e end about 46 Minutes paſt four of the Clock, the <hi>total Durati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> about 3 hours and 54 Minutes, and the <hi>Digits</hi> Eclipſed, will be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o &amp; 39 Minutes, and the moſt <hi>material</hi> Configurations attending <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is <hi>Eclipſe,</hi> are the oppoſition of <hi>Jupiter</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>enus,</hi> and of <hi>Saturn</hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <hi>Mars,</hi> it happening in the Eighth Houſe, called by <hi>Aſtrologers <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omus,</hi> morts and ends in the ſeventh, which they call the <hi>Angles</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>War, Quarrels, Strife,</hi> and contentious <hi>Mars</hi> is <hi>Lord</hi> of <hi>Aries,</hi> where the <hi>Eclipſe</hi> falls out, is <hi>Retrograde</hi> and in his <hi>Detriment,</hi> ſo <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the Effects may ſeem to be of no pleaſant Importance, as fur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hermore happening in the <hi>Fiery Triplicity,</hi> and firſt <hi>Decant</hi> of <hi>Aries.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd in this Caſe, according to the <hi>Learned,</hi> it Denotes the motion of <hi>Armys, Death,</hi> and <hi>Deſtruction</hi> of ſmall <hi>Cattle,</hi> Enmity between the <hi>
+                     <g ref="char:V">Ʋ</g>ulgar</hi> and <hi>Noble ſort</hi> of <hi>people, Murthers, Thefts, Diſcords, Wars,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harp <hi>Fevours, Apparitions,</hi> in the <hi>Air,</hi> and <hi>Mutations</hi> in thoſe parts ſubject to the ſign, wherein it happens, which we earneſtly wiſh may be Averted from us, and that we may enjoy our <hi>Religion, Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erty</hi> and <hi>Property,</hi> in <hi>peace</hi> and <hi>plenty.</hi> Amen, Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
